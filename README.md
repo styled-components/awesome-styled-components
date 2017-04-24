@@ -42,7 +42,7 @@
 - [styled-theme](https://github.com/diegohaz/styled-theme) - An extensible theming system for styled-components
 - [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions for styled-components
 - [vim-styled-components](https://github.com/fleischie/vim-styled-components) - A Vim bundle for http://styled-components.com based javascript files
-- [styled-animated](https://github.com/ysfzrn/styled-animated) - Simple React Animation Library made was with styled-components like Animated.css
+- [styled-animated](https://github.com/ysfzrn/styled-animated) - Simple React Animation Library was made with styled-components like Animated.css
 
 ## Resources
 
