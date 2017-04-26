@@ -62,6 +62,7 @@
 - [babel-plugin-styled-components-require](https://github.com/siddharthkp/babel-plugin-styled-components-require) - Babel plugin that adds styled-components import declaration
 - [jest-styled-components-matcher](https://github.com/Kureev/jest-styled-components-matcher) - Jest matcher for styled components (React Native)
 - [styled-ax](https://github.com/Lokua/styled-ax) - Functional theme property accessor(s)
+- [styled-bootstrap-responsive-breakpoints](https://github.com/petetnt/styled-bootstrap-responsive-breakpoints) - Utility functions for using [Bootstrap's responsive breakpoints](https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints) with `styled-components`.
 - [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints with `styled-components`.
 - [styled-props](https://github.com/RafalFilipek/styled-props) - Simple lib that allows you to set styled props in your styled-components without stress ([demo](http://www.webpackbin.com/N1EKUqgvG))
 - [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system for styled-components.
