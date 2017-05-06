@@ -67,6 +67,7 @@
 - [styled-props](https://github.com/RafalFilipek/styled-props) - Simple lib that allows you to set styled props in your styled-components without stress ([demo](http://www.webpackbin.com/N1EKUqgvG))
 - [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system for styled-components.
 - [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions for styled-components.
+- [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles with `styled-components`
 
 ### Boilerplates
 
