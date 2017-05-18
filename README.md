@@ -35,9 +35,11 @@
 - [Mbtn](https://github.com/mimccio/Mbtn) - A set of extendable buttons
 - [progress-arc-component](https://github.com/szastupov/progress-arc-component) - Customizable progress arc for React
 - [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Simple & accessible ReactJS tooltip component
+- [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders): A collection of pure CSS React loading components. ([demo](https://lucasbassetti.com.br/react-css-loaders/))
 - [react-components-kit](https://github.com/TaitoUnited/react-components-kit) - A collection of reusable and themable React UI components
 - [react-d3-treemap](https://github.com/jquintozamora/react-d3-treemap) - Treemap based on d3.treemap built using React
 - [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍. It makes form inputs easy, finally !
+- [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot): Simple chatbot / conversational-ui React component. ([demo](https://lucasbassetti.com.br/react-simple-chatbot/))
 - [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components ([demo](https://elrumordelaluz.github.io/reactour/))
 - [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component ([demo](https://elrumordelaluz.github.io/reshake/))
