@@ -70,6 +70,7 @@
 - [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system for styled-components.
 - [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions for styled-components.
 - [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles with `styled-components`
+- [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Test utils for styled-components compatible with jest, expect, chai and jasmine
 
 ### Boilerplates
 
