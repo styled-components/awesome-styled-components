@@ -40,7 +40,7 @@
 - [react-d3-treemap](https://github.com/jquintozamora/react-d3-treemap) - Treemap based on d3.treemap built using React
 - [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍. It makes form inputs easy, finally !
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot): Simple chatbot / conversational-ui React component ([demo](https://lucasbassetti.com.br/react-simple-chatbot/))
-- [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
+  [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight select box built with styled-components, with ShadowDOM and CSSVariables support. It was based on react-select [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components ([demo](https://elrumordelaluz.github.io/reactour/))
 - [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component ([demo](https://elrumordelaluz.github.io/reshake/))
 - [styled-animated](https://github.com/ysfzrn/styled-animated) - Simple React Animation Library was made with styled-components like Animated.css
