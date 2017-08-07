@@ -42,6 +42,7 @@
 - [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot): Simple chatbot / conversational-ui React component ([demo](https://lucasbassetti.com.br/react-simple-chatbot/))
 - [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight select box built with styled-components.  ([demo](http://agutoli.github.io/))
 - [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
+- [react-calendar-icon](https://github.com/kkostov/react-calendar-icon) - Date icon component with support for theming and localization
 - [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components ([demo](https://elrumordelaluz.github.io/reactour/))
 - [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component ([demo](https://elrumordelaluz.github.io/reshake/))
 - [styled-animated](https://github.com/ysfzrn/styled-animated) - Simple React Animation Library was made with styled-components like Animated.css
