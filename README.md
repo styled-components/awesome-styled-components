@@ -78,6 +78,7 @@
 
 - [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate with styled components ([demo](https://diegohaz.github.io/arc))
 - [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
+- [react-static-boilerplate](https://github.com/kriasoft/react-static-boilerplate) - Build pre-rendered single-page apps (SPA) with Create React App and Relay Modern
 - [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) (SSR, Universal Webpack, Redux, React-router, Webpack 2, Babel, Styled Components and more...)
 - [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on Flexbox ([demo](https://loicmahieu.github.io/react-styled-flexboxgrid/demo/index.html))
 - [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
