@@ -83,7 +83,7 @@
 - [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
 - [Scalable React TypeScript Boilerplate](https://github.com/RyanCCollins/scalable-react-ts-boilerplate)
 - [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter with styled-components 💅 ([demo](https://superstylin.netlify.com/))
-- [React Static Boilerplate](https://github.com/kriasoft/react-static-boilerplate) - Build pre-rendered single-page apps (SPA) with Create React App and Relay Modern
+- [React Static Boilerplate](https://github.com/kriasoft/react-static-boilerplate#readme) - Build pre-rendered single-page apps (SPA) with Create React App and Relay Modern
 
 ### Websites
 
