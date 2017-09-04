@@ -65,6 +65,7 @@
 
 - [babel-plugin-styled-components-require](https://github.com/siddharthkp/babel-plugin-styled-components-require) - Babel plugin that adds styled-components import declaration
 - [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
+- [polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript :sparkles:
 - [styled-ax](https://github.com/Lokua/styled-ax) - Functional theme property accessor(s)
 - [styled-bootstrap-responsive-breakpoints](https://github.com/petetnt/styled-bootstrap-responsive-breakpoints) - Utility functions for using [Bootstrap's responsive breakpoints](https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints) with `styled-components`.
 - [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints with `styled-components`.
