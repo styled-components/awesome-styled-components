@@ -69,7 +69,7 @@
 * [Rebass](https://github.com/jxnblk/rebass) - Functional React UI component library.
 * [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntaxt highlighting and mobile support.
 * [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React.
-* colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
+* [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
 
 #### Grid Systems
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
@@ -98,6 +98,8 @@
 * [styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app.
 * [styled-components-ts](https://github.com/jacob-ebey/styled-components-ts) - styled-components for typeScript
 * [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
+* [styled-is](https://github.com/yldio/styled-is) - Flag utility for styled-components.
+* [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
 
 #### Testing
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
