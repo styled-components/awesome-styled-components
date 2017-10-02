@@ -1,6 +1,10 @@
 # Awesome Styled Components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="75px" align="right"/>](https://styled-components.com)
+
 > A collection of awesome styled-components resources 💅
+
+*Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
 ## Contents
