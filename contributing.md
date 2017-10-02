@@ -2,14 +2,20 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
--
+---
 
 Ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
+- Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - Description.`
+- Use the following format: `[name](link) - Description.`
+- Additions should be added to the bottom of the relevant category.
+- Link to the GitHub repo, not npmjs.com.
 - Keep descriptions short and simple, but descriptive.
+- Don't mention `styled-components` in the description as it's implied.
+- Start the description with a capital and end with a full stop/period.
+- Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
