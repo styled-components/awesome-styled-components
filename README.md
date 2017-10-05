@@ -133,7 +133,6 @@
 * [The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
 * [Rendering Khan Academy’s Learn Menu Wherever I Please](https://medium.com/@jdan/rendering-khan-academys-learn-menu-wherever-i-please-4b58d4a9432d)
 * [Ryan Florence - Ryan's Random Thoughts on Inline Styles](https://www.youtube.com/watch?v=EkPcGS4TzdQ)
-* https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8
 * [Creating truly universal React component systems](https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7)
 * [How to build a simple HackerNews feed with styled-components](https://medium.com/styled-components/how-to-build-a-simple-hackernews-feed-with-styled-components-a8905211e45e)
 * [How to create responsive UI with styled-components](https://medium.com/styled-components/how-to-create-responsive-ui-with-styled-components-c6b71a3ce172)
