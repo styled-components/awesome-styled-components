@@ -102,6 +102,7 @@
 * [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
 * [styled-is](https://github.com/yldio/styled-is) - Flag utility for styled-components.
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
+* [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
 
 #### Testing
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
