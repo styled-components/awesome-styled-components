@@ -12,11 +12,11 @@
   - [General Resources](#general-resources)
   - [Community](#community)
 - [Built with styled-components](#built-with-styled-components)
-  - [Boilerplates](#boilerplates)
   - [Components](#components)
   - [Grid Systems](#grid-systems)
   - [Helpers](#helpers)
   - [Testing](#testing)
+  - [Boilerplates](#boilerplates)
 - [Real Apps](#real-apps)
 - [Further Reading](#further-reading)
   - [Articles](#articles)
@@ -41,17 +41,6 @@
 
 ---
 ### Built with styled-components
-
-#### Boilerplates
-* [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
-* [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
-* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-* [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
-* [Scalable React TypeScript Boilerplate](https://github.com/RyanCCollins/scalable-react-ts-boilerplate)
-* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter 💅.
-* [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
-* [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
 #### Components
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
@@ -108,6 +97,16 @@
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
 
+#### Boilerplates
+* [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
+* [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+* [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
+* [Scalable React TypeScript Boilerplate](https://github.com/RyanCCollins/scalable-react-ts-boilerplate)
+* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter 💅.
+* [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
+* [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
 ---
 ### Real Apps
