@@ -61,6 +61,7 @@
 * [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntaxt highlighting and mobile support.
 * [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React.
 * [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
+* [styled-loaders](https://github.com/SaraVieira/styled-loaders) - Loaders Built with Preact and Styled Components.
 
 #### Grid Systems
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
@@ -123,6 +124,7 @@
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/)).
 * [Swat.io](https://swat.io) - Social Media Managment for Teams by [Die Socialisten](http://die.socialisten.at)
 * [GetShitDone](https://nargonath.github.io/getshitdone/) - Timer to track your work tasks ([source](https://github.com/Nargonath/getshitdone)).
+* [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
 
 
 ---
