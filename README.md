@@ -62,6 +62,7 @@
 * [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React.
 * [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
 * [styled-loaders](https://github.com/SaraVieira/styled-loaders) - Loaders Built with Preact and Styled Components.
+* [react-styled-box](https://github.com/Monar/react-styled-box) - Speedup prototyping layouts with ready flex powered Box.
 
 #### Grid Systems
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
