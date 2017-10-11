@@ -10,7 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[name](link) - Description.`
-- Additions should be added to the bottom of the relevant category.
+- Additions should be added to the top of the relevant category.
 - Link to the GitHub repo, not npmjs.com.
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `styled-components` in the description as it's implied.
