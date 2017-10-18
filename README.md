@@ -113,6 +113,7 @@
 
 ---
 ### Real Apps
+* [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 * [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js); also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
 * [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
 * [GetShitDone](https://nargonath.github.io/getshitdone/) - Timer to track your work tasks ([source](https://github.com/Nargonath/getshitdone)).
@@ -128,7 +129,6 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
-* [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 
 
 ---
