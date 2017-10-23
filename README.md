@@ -43,17 +43,17 @@
 ### Built with styled-components
 
 #### Components
-* [Reactackle](https://github.com/bcrumbs/reactackle) - Open-source components library built with React and Styled Components.
-* [react-styled-box](https://github.com/Monar/react-styled-box) - Speedup prototyping layouts with ready flex powered Box.
+* [Reactackle](https://github.com/bcrumbs/reactackle) - Open-source component library built with React and Styled Components.
+* [react-styled-box](https://github.com/Monar/react-styled-box) - Speed up prototyping layouts with ready flex powered Box.
 * [styled-loaders](https://github.com/SaraVieira/styled-loaders) - Loaders Built with Preact and Styled Components.
 * [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
 * [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React.
-* [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntaxt highlighting and mobile support.
+* [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntax highlighting and mobile support.
 * [Rebass](https://github.com/jxnblk/rebass) - Functional React UI component library.
 * [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components.
 * [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - Simple chatbot / conversational-ui React component.
 * [react-progressive-bg-image](https://github.com/evenchange4/react-progressive-bg-image) - Medium style progressive background image.
-* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) - An on-premises Internet of Things cloud platform, which can be quickly built and get started with.
+* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
 * [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components.
 * [last-draft](https://github.com/vacenz/last-draft) - A Draft.js Editor.
 * [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component.
@@ -61,7 +61,7 @@
 * [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍.
 * [uiGradients](http://jsbros.github.io/uigradients) - Generate beautiful background gradients from the [uigradients.com](http://uigradients.com) database.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
-* [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a react component from a tag prop. Lets your users to choose which HTML elements get styled.
+* [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
@@ -71,7 +71,7 @@
 * [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout for React.
 * [griz](https://github.com/josephrexme/griz) - The simplest grid system you'd ever see. Using grids with a flexbox fallback.
 * [react-flexa](https://github.com/aaronvanston/react-flexa) - Implementing the flexbox CSS API responsively.
-* [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on Flexbox.
+* [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on flexbox.
 * [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) - Responsive grid components.
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
@@ -81,7 +81,7 @@
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
 * [styled-is](https://github.com/yldio/styled-is) - Flag utility for styled-components.
 * [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
-* [styled-components-ts](https://github.com/jacob-ebey/styled-components-ts) - styled-components for typeScript
+* [styled-components-ts](https://github.com/jacob-ebey/styled-components-ts) - styled-components for TypeScript
 * [styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app.
 * [styled-by](https://github.com/brunobertolini/styled-by) - Simple and powerful lib to handle styled props.
 * [styled-media-query](http://github.com/morajabi/styled-media-query) - Easily and beautifully use media queries with custom breakpoints,
