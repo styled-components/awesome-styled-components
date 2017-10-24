@@ -77,6 +77,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
 * [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
