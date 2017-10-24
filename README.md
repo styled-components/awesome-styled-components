@@ -96,6 +96,7 @@
 * [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
 * [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
+* [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 
 #### Testing
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
