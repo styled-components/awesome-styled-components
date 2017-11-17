@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [react-styled-flexbox](https://github.com/snikas/react-styled-flexbox) - Effortlessly add flexbox styles to your components using minimal code.
 * [Reactackle](https://github.com/bcrumbs/reactackle) - Open-source component library built with React and Styled Components.
 * [react-styled-box](https://github.com/Monar/react-styled-box) - Speed up prototyping layouts with ready flex powered Box.
 * [styled-loaders](https://github.com/SaraVieira/styled-loaders) - Loaders Built with Preact and Styled Components.
