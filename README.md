@@ -118,6 +118,7 @@
 
 ---
 ### Real Apps
+* [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
 * [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 * [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js); also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
 * [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
