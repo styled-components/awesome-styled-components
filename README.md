@@ -111,8 +111,6 @@
 * [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
 * [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter 💅.
-* [Scalable React TypeScript Boilerplate](https://github.com/RyanCCollins/scalable-react-ts-boilerplate)
-* [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
 * [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
