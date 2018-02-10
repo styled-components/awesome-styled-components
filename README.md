@@ -81,6 +81,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
 * [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
 * [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
