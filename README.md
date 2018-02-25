@@ -43,9 +43,10 @@
 ### Built with styled-components
 
 #### Components
+* [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
-* [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles
-* [styled-grid-component](https://github.com/Fausto95/styled-grid-component) - Grid Element for not writing any more custom grid styles
+* [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
+* [styled-grid-component](https://github.com/Fausto95/styled-grid-component) - Grid Element for not writing any more custom grid styles.
 * [react-styled-flexbox](https://github.com/snikas/react-styled-flexbox) - Effortlessly add flexbox styles to your components using minimal code.
 * [Reactackle](https://github.com/bcrumbs/reactackle) - Open-source component library built with React and Styled Components.
 * [react-styled-box](https://github.com/Monar/react-styled-box) - Speed up prototyping layouts with ready flex powered Box.
