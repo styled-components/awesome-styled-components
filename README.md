@@ -42,10 +42,8 @@
 ---
 ### Built with styled-components
 
-#### Libraries
-* [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
-
 #### Components
+* [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
 * [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
