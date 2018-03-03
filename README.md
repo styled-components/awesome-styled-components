@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
 * [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
@@ -69,7 +70,6 @@
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
-* [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 
 #### Grid Systems
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
