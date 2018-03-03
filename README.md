@@ -1,176 +1,182 @@
-# Awesome styled-components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Styled Components [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="75px" align="right"/>](https://styled-components.com)
 
-> A curated list of delightful [styled-components](https://styled-components.com) [packages](#builtwithstyled-components) and [resources](#resources).
+> A collection of awesome styled-components resources 💅
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 
 ## Contents
-
-- [Built with styled-components](#builtwithstyled-components)
-  - [Libraries](#libraries)
-  - [Boilerplates](#boilerplates)
-  - [Websites](#websites)
-  - [Other](#other)
-- [Resources](#resources)
-  - [Articles](#articles)
+- [styled-components](#styled-components)
+  - [General Resources](#general-resources)
   - [Community](#community)
-  - [Developing](#developing)
-  - [Discussions](#discussions)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
+- [Built with styled-components](#built-with-styled-components)
+  - [Components](#components)
+  - [Grid Systems](#grid-systems)
+  - [Helpers](#helpers)
+  - [Testing](#testing)
+  - [Boilerplates](#boilerplates)
+- [Real Apps](#real-apps)
+- [Further Reading](#further-reading)
+  - [Articles](#articles)
+  - [Video from Confs](#video-from-confs)
+  - [Video Tutorials](#video-tutorials)
+- [Contribute](#contribute)
+- [License](#license)
 
 
-## Built with `styled-components`
+---
+### styled-components
+> Use the best bits of ES6 and CSS to style your apps without stress 💅
 
-### Libraries
+#### General Resources
+* [Official Site](https://www.styled-components.com/)
+* [GitHub](https://github.com/styled-components/styled-components)
 
-- [animate-css-styled-components](https://github.com/dielduarte/animate-css-styled-components) - simple port of animate css for styled-components
-- [elm-styled](https://github.com/styled-components/elm-styled) - Styling your Html Elements with typed Css
-- [gfas-react-components](https://github.com/jjordy/gfas-react-components) - Global Financial Aid Services Layout and design Components
-- [last-draft](https://github.com/vacenz/last-draft) - A Draft.js Editor ([demo](http://lastdraft.vace.nz))
-- [material-styled](https://github.com/jjstrat3/material-styled) - A collection of React components implementing Google's Material Design spec
-- [Mbtn](https://github.com/mimccio/Mbtn) - A set of extendable buttons
-- [progress-arc-component](https://github.com/szastupov/progress-arc-component) - Customizable progress arc for React
-- [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Simple & accessible ReactJS tooltip component
-- [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders): A collection of pure CSS React loading components ([demo](https://lucasbassetti.com.br/react-css-loaders/))
-- [react-components-kit](https://github.com/TaitoUnited/react-components-kit) - A collection of reusable and themable React UI components
-- [react-d3-treemap](https://github.com/jquintozamora/react-d3-treemap) - Treemap based on d3.treemap built using React
-- [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍. It makes form inputs easy, finally !
-- [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot): Simple chatbot / conversational-ui React component ([demo](https://lucasbassetti.com.br/react-simple-chatbot/))
-- [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight select box built with styled-components.  ([demo](http://agutoli.github.io/))
-- [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
-- [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components ([demo](https://elrumordelaluz.github.io/reactour/))
-- [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component ([demo](https://elrumordelaluz.github.io/reshake/))
-- [styled-animated](https://github.com/ysfzrn/styled-animated) - Simple React Animation Library was made with styled-components like Animated.css
-- [styled-classnames](https://github.com/rgdelato/styled-classnames) - styled-components without the components
-- [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints with styled-components
-- [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) - Responsive margin and padding components for `styled-components`.
-- [styled-elements](https://github.com/styled-components/styled-elements) - Styled components for the DOM
-- [styled-mixin](https://github.com/dimapaloskin/styled-mixin) - Simple wrapper for creating styled-components mixins
-- [styled-placeload](https://github.com/xavcz/styled-placeload) - Placeholder components based on styled-components
-- [uiGradients](http://jsbros.github.io/uigradients) - Generate beautiful background gradients from the [uigradients.com](http://uigradients.com) database.
-- [vim-styled-components](https://github.com/fleischie/vim-styled-components) - A Vim bundle for http://styled-components.com based javascript files
+#### Community
+* [Spectrum](https://spectrum.chat/styled-components)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/styled-components)
+
+
+---
+### Built with styled-components
+
+#### Components
+* [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
+* [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
+* [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
+* [styled-grid-component](https://github.com/Fausto95/styled-grid-component) - Grid Element for not writing any more custom grid styles.
+* [react-styled-flexbox](https://github.com/snikas/react-styled-flexbox) - Effortlessly add flexbox styles to your components using minimal code.
+* [Reactackle](https://github.com/bcrumbs/reactackle) - Open-source component library built with React and Styled Components.
+* [react-styled-box](https://github.com/Monar/react-styled-box) - Speed up prototyping layouts with ready flex powered Box.
+* [styled-loaders](https://github.com/SaraVieira/styled-loaders) - Loaders Built with Preact and Styled Components.
+* [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style.
+* [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React.
+* [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntax highlighting and mobile support.
+* [Rebass](https://github.com/jxnblk/rebass) - Functional React UI component library.
+* [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components.
+* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - Simple chatbot / conversational-ui React component.
+* [react-progressive-bg-image](https://github.com/evenchange4/react-progressive-bg-image) - Medium style progressive background image.
+* [mcs-lite-ui](https://github.com/MCS-Lite/mcs-lite) - An on-premises Internet of Things cloud platform, which can be quickly built and is fast to get started with.
+* [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components.
+* [last-draft](https://github.com/vacenz/last-draft) - A Draft.js Editor.
+* [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component.
+* [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
+* [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍.
+* [uiGradients](http://jsbros.github.io/uigradients) - Generate beautiful background gradients from the [uigradients.com](http://uigradients.com) database.
+* [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
+* [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
+* [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
+* [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
-
-- [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system ([demo](http://jxnblk.com/grid-styled/))
-- [hedron](http://github.com/jsbros/hedron) - A no-frills flex-box grid system.
-- [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) - Responsive grid components for `styled-components`.
+* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
+* [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) - Responsive margin and padding components.
+* [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
+* [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout for React.
+* [griz](https://github.com/josephrexme/griz) - The simplest grid system you'd ever see. Using grids with a flexbox fallback.
+* [react-flexa](https://github.com/aaronvanston/react-flexa) - Implementing the flexbox CSS API responsively.
+* [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on flexbox.
+* [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) - Responsive grid components.
+* [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
+* [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
+* [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
+* [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
+* [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
+* [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
+* [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
+* [styled-is](https://github.com/yldio/styled-is) - Flag utility for styled-components.
+* [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
+* [styled-components-ts](https://github.com/jacob-ebey/styled-components-ts) - styled-components for TypeScript
+* [styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app.
+* [styled-by](https://github.com/brunobertolini/styled-by) - Simple and powerful lib to handle styled props.
+* [styled-media-query](http://github.com/morajabi/styled-media-query) - Easily and beautifully use media queries with custom breakpoints,
+* [styled-shortcut-components](https://github.com/donavon/styled-shortcut-components) - A convenience package that wraps `styled-components` with `styled-shortcuts`.
+* [styled-shortcuts](https://github.com/donavon/styled-shortcuts) - Use simple string notation to access props. No functions necessary.
+* [styled-system](https://github.com/jxnblk/styled-system) - Design system utilities.
+* [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles.
+* [styled-components-theme](https://github.com/erikras/styled-components-theme) - Refers to theme colors and modifying them inline.
+* [styled-ax](https://github.com/Lokua/styled-ax) - Functional theme property accessor(s).
+* [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions.
+* [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system.
+* [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
+* [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
 
-- [babel-plugin-styled-components-require](https://github.com/siddharthkp/babel-plugin-styled-components-require) - Babel plugin that adds styled-components import declaration
-- [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
-- [styled-ax](https://github.com/Lokua/styled-ax) - Functional theme property accessor(s)
-- [styled-bootstrap-responsive-breakpoints](https://github.com/petetnt/styled-bootstrap-responsive-breakpoints) - Utility functions for using [Bootstrap's responsive breakpoints](https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints) with `styled-components`.
-- [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints with `styled-components`.
-- [styled-props](https://github.com/RafalFilipek/styled-props) - Simple lib that allows you to set styled props in your styled-components without stress ([demo](http://www.webpackbin.com/N1EKUqgvG))
-- [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system for styled-components.
-- [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions for styled-components.
-- [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles with `styled-components`
-- [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Test utils for styled-components compatible with jest, expect, chai and jasmine
+#### Testing
+* [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
+* [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
 
-### Boilerplates
-
-- [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate with styled components ([demo](https://diegohaz.github.io/arc))
-- [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
-- [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) (SSR, Universal Webpack, Redux, React-router, Webpack 2, Babel, Styled Components and more...)
-- [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on Flexbox ([demo](https://loicmahieu.github.io/react-styled-flexboxgrid/demo/index.html))
-- [Scalable React Boilerplate](https://github.com/RyanCCollins/scalable-react-boilerplate)
-- [Scalable React TypeScript Boilerplate](https://github.com/RyanCCollins/scalable-react-ts-boilerplate)
-- [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter with styled-components 💅 ([demo](https://superstylin.netlify.com/))
-
-### Websites
-
-- [dirtyredz.com](http://dirtyredz.com) - David McClain | Dirtyredz - About me, Latest projects and Contact ([source](https://github.com/dirtyredz/dirtyredz.com))
-- [postCSS.parts](http://postcss.parts) - A searchable catalog of PostCSS plugins
-- [reactiflux.com](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/reactiflux/reactiflux.com))
-- [sachagreif.com](http://sachagreif.com) - personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017))
-- [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp))
-
-### Other
-
-- [colors-show](https://github.com/RafalFilipek/colors-show) - Present your application colors with style. ([demo](https://colors-show.now.sh/))
-- [react-adminlte-dash](https://github.com/zksailor534/react-adminlte-dash) - AdminLTE dashboard components in React ([demo](http://zksailor534.github.io/react-adminlte-dash))
-- [react-presents](https://bvaughn.github.io/react-presents/) - Highly customizable React slideshow framework with syntaxt highlighting and mobile support.
-
-
-## Resources
-
-### Articles
-
-- [CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://m.alphasights.com/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b)
-
-### Community
-
-- [Gitter](https://gitter.im/styled-components/styled-components)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/styled-components)
-
-### Developing
-
-#### Linting
-
-There is (currently experimental) support for `stylelint` – meaning you can take advantage of 150 rules to make sure your `styled-components` CSS is solid!
-
-![Recording of stylelint correctly reporting errors in a styled components' CSS](http://imgur.com/br9zdHb.gif)
-
-See the [`stylelint-processor-styled-components`](https://github.com/styled-components/stylelint-processor-styled-components) repository for installation instructions.
-
-#### Syntax highlighting
-
-The one thing you lose when writing CSS in template literals is syntax highlighting. We're working hard on making proper syntax highlighting happening in all editors. We currently have support for Atom, Visual Studio Code, and soon Sublime Text.
-
-This is what it looks like when properly highlighted:
-
-<img alt="Syntax highlighted styled component" src="http://imgur.com/k7h45c3.jpg" height="150px" />
-
-##### Atom
-
-[**@gandm**](https://github.com/gandm), the creator of `language-babel`, has added support for `styled-components` in Atom!
-
-To get proper syntax highlighting, all you have to do is install and use the `language-babel` package for your JavaScript files!
-
-##### Sublime Text
-
-There is an [open PR](https://github.com/babel/babel-sublime/pull/289) by [@garetmckinley](https://github.com/garetmckinley) to add support for `styled-components` to `babel-sublime`! (if you want the PR to land, feel free to 👍 the initial comment to let the maintainers know there's a need for this!)
-
-As soon as that PR is merged and a new version released, all you'll have to do is install and use `babel-sublime` to highlight your JavaScript files!
-
-##### Visual Studio Code
-
-The [vscode-styled-components](https://github.com/styled-components/vscode-styled-components) extension provides syntax highlighting inside your Javascript files. You can install it as usual from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components).
-
-##### VIM / NeoVim
-
-The [`vim-styled-components`](https://github.com/fleischie/vim-styled-components) plugin gives you syntax highlighting inside your Javascript files. Install it with your usual plugin manager like [Plug](https://github.com/junegunn/vim-plug), [Vundle](https://github.com/VundleVim/Vundle.vim), [Pathogen](https://github.com/tpope/vim-pathogen), etc.
-
-Also if you're looking for an awesome javascript syntax package you can never go wrong with [YAJS.vim](https://github.com/othree/yajs.vim).
-
-##### Other Editors
-
-We could use your help to get syntax highlighting support to other editors! If you want to start working on syntax highlighting for your editor, open an issue to let us know.
-
-### Discussions
-
-- [Grouping States](https://twitter.com/fgnass/status/854619372559708161)
-- [Project Organization](http://stackoverflow.com/questions/42987939/styled-components-organization/42996969#42996969)
-
-### Tutorials
-
-- [A 5-minute Intro to Styled Components](https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55)
-- [Animating SVG with styled-components](https://medium.com/eedi/animating-svg-with-styled-components-34284a7429a3)
-- [Quick Tip: How to Style React Components with styled-components](https://www.sitepoint.com/style-react-components-styled-components/)
-
-### Videos
-
-- [Max Stoiber - The Road to Styled Components - React Conf 2017](https://www.youtube.com/watch?v=jjN2yURa_uM)
+#### Boilerplates
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
+* [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
+* [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
+* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter 💅.
+* [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+* [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
+* [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
 
 
-## License
+---
+### Real Apps
+* [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
+* [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
+* [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
+* [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js); also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
+* [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
+* [GetShitDone](https://nargonath.github.io/getshitdone/) - Timer to track your work tasks ([source](https://github.com/Nargonath/getshitdone)).
+* [Swat.io](https://swat.io) - Social Media Managment for Teams by [Die Socialisten](http://die.socialisten.at)
+* [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/)).
+* [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client)).
+* [rosesdaycare.center](https://rosesdaycare.center) - Marketing website with theme colors that change on refresh ([source](https://github.com/anthony2025/roses-daycare)).
+* [joeireland.com](https://joeireland.com) - Portfolio of Joseph Ireland ([source](https://github.com/IamJoseph/JoesReactWebsite)).
+* [michaelhsu.tw](http://michaelhsu.tw) - A simple static homepage built with CRA pre-renderer ([source](https://github.com/evenchange4/michaelhsu.tw)).
+* [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/reactiflux/reactiflux.com)).
+* [Dirtyredz.com](http://dirtyredz.com) - David McClain | Dirtyredz * About me, Latest projects and Contact ([source](https://github.com/dirtyredz/dirtyredz.com)).
+* [ismaywolff.nl](https://ismaywolff.nl) - personal portfolio with serverside rendering ([source](https://github.com/ismay/ismaywolff.nl)).
+* [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
+* [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
+* [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Romello Goodman](http://romellogoodman.com) has waived all copyright and related or neighboring rights to this work.
+---
+### Further Reading
+
+#### Articles
+* [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
+* [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
+* [Building a Blog With Next.js and styled-components](https://medium.com/styled-components/building-a-blog-with-next-js-359cf1236574)
+* [How to create responsive UI with styled-components](https://medium.com/styled-components/how-to-create-responsive-ui-with-styled-components-c6b71a3ce172)
+* [How to build a simple HackerNews feed with styled-components](https://medium.com/styled-components/how-to-build-a-simple-hackernews-feed-with-styled-components-a8905211e45e)
+* [Creating truly universal React component systems](https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7)
+* [Ryan Florence - Ryan's Random Thoughts on Inline Styles](https://www.youtube.com/watch?v=EkPcGS4TzdQ)
+* [Rendering Khan Academy’s Learn Menu Wherever I Please](https://medium.com/@jdan/rendering-khan-academys-learn-menu-wherever-i-please-4b58d4a9432d)
+* [The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
+* ["Scale" FUD and Style Components](https://medium.com/learnreact/scale-fud-and-style-components-c0ce87ec9772#.kzjba8lcg)
+* [The magic behind 💅 styled-components](http://mxstbr.blog/2016/11/styled-components-magic-explained/)
+
+#### Video from Confs
+* [The road to styled components, and the road ahead - Glen Maddern, Front End Center](https://www.youtube.com/watch?v=PvM2WijDxxI)
+* [⚡️ - Max Stoiber - The Road to Styled Components - React Conf 2017](https://www.youtube.com/watch?v=jjN2yURa_uM)
+* [ColdFront16 • Glenn Maddern: The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
+
+#### Video Tutorials
+* [Create a style guide using NPM & styled-components](https://www.youtube.com/watch?v=u6gQ48rSw-E)
+
+
+---
+### Contribute
+
+Contributions welcome and suggestions! Read the [contribution guidelines](contributing.md) first.
+
+
+---
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Romello Goodman has waived all copyright and
+related or neighboring rights to this work.
