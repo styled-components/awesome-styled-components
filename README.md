@@ -118,6 +118,7 @@
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
 * [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
+* [React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter) - Real world React, GraphQL, Relay, Postgres setup for a serverless architecture ([demo](https://firebase.reactstarter.com/)).
 
 
 ---
