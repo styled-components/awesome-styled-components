@@ -138,7 +138,6 @@
 * [michaelhsu.tw](http://michaelhsu.tw) - A simple static homepage built with CRA pre-renderer ([source](https://github.com/evenchange4/michaelhsu.tw)).
 * [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/reactiflux/reactiflux.com)).
 * [Dirtyredz.com](http://dirtyredz.com) - David McClain | Dirtyredz * About me, Latest projects and Contact ([source](https://github.com/dirtyredz/dirtyredz.com)).
-* [ismaywolff.nl](https://ismaywolff.nl) - personal portfolio with serverside rendering ([source](https://github.com/ismay/ismaywolff.nl)).
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
