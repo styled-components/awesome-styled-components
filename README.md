@@ -123,6 +123,7 @@
 
 ---
 ### Real Apps
+* [Helsinki Food Guide](https://helsinkifoodguide.com) - Website featuring only the best dishes in Helsinki.
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
 * [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
