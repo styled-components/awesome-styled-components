@@ -141,6 +141,8 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
+* [Hack Club Design System](https://design.hackclub.com) - Reusable set of UI components, built by Hack Club ([source](https://github.com/hackclub/design-system))
 
 
 ---
