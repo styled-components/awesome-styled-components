@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [Hack Club Design System](https://design.hackclub.com) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com) ([source](https://github.com/hackclub/design-system))
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
 * [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
@@ -123,6 +124,7 @@
 
 ---
 ### Real Apps
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
 * [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
@@ -141,8 +143,6 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
-* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
-* [Hack Club Design System](https://design.hackclub.com) - Reusable set of UI components, built by Hack Club ([source](https://github.com/hackclub/design-system))
 
 
 ---
