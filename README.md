@@ -72,6 +72,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [react-rasta](https://github.com/chillicream/react-rasta) - Flexible yet simple, responsive and cutting-edge.
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) - Responsive margin and padding components.
 * [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
