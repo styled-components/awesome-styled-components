@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [rick-morty-app](https://github.com/bamii/rick-morty-app) - Rick and Morty Information Portal.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
