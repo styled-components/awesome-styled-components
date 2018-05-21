@@ -43,7 +43,6 @@
 ### Built with styled-components
 
 #### Components
-* [rick-morty-app](https://github.com/bamii/rick-morty-app) - Rick and Morty Information Portal.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
@@ -125,6 +124,7 @@
 
 ---
 ### Real Apps
+* [rick-morty-app](https://github.com/bamii/rick-morty-app) - Rick and Morty Information Portal.
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
 * [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
