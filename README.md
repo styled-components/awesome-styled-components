@@ -75,8 +75,8 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [styled-grid-responsive](https://github.com/arovillard/styled-grid-responsive) - Responsive, fluid, deeply nestable, non-flexbox grid system with default or custom breakpoints.
 * [styled-bootstrap-grid](https://github.com/dragma/styled-bootstrap-grid) - Full Twitter Bootstrap v4 **grid system** (only) implementation.
-* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) - Responsive margin and padding components.
 * [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
 * [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout for React.
