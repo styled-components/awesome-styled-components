@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
@@ -128,6 +129,7 @@
 
 ---
 ### Real Apps
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
 * [Helsinki Food Guide](https://helsinkifoodguide.com) - Website featuring only the best dishes in Helsinki.
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
