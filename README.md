@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
