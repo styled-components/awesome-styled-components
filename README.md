@@ -43,6 +43,10 @@
 ### Built with styled-components
 
 #### Components
+* [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
+* [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
+* [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
+* [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
 * [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
@@ -73,7 +77,8 @@
 
 #### Grid Systems
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
-* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
+* [styled-grid-responsive](https://github.com/arovillard/styled-grid-responsive) - Responsive, fluid, deeply nestable, non-flexbox grid system with default or custom breakpoints.
+* [styled-bootstrap-grid](https://github.com/dragma/styled-bootstrap-grid) - Full Twitter Bootstrap v4 **grid system** (only) implementation.
 * [styled-components-spacing](https://github.com/jameslnewell/styled-components-spacing) - Responsive margin and padding components.
 * [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
 * [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout for React.
@@ -85,6 +90,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
 * [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
 * [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
@@ -125,6 +131,10 @@
 
 ---
 ### Real Apps
+* [Coinbase Pro](https://pro.coinbase.com) - US based digital asset exchange with trading UI, FIX API and REST API.
+* [rick-morty-app](https://github.com/bamii/rick-morty-app) - Rick and Morty Information Portal.
+* [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
+* [Helsinki Food Guide](https://helsinkifoodguide.com) - Website featuring only the best dishes in Helsinki.
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
 * [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
@@ -143,7 +153,6 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
-
 
 ---
 ### Further Reading
