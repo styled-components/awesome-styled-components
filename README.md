@@ -177,6 +177,7 @@
 
 #### Video Tutorials
 * [Create a style guide using NPM & styled-components](https://www.youtube.com/watch?v=u6gQ48rSw-E)
+* [How to Use Styled Components in React Applications](https://www.youtube.com/watch?v=0cE1q_SVAjM)
 
 
 ---
