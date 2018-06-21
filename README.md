@@ -44,6 +44,7 @@
 
 #### Components
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
+* [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
