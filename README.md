@@ -90,6 +90,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
 * [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
