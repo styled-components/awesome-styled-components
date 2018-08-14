@@ -158,6 +158,7 @@
 ### Further Reading
 
 #### Articles
+* [How styled-components works](https://medium.com/@e.gluhotorenko/how-styled-components-works-618a69970421)
 * [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 * [Building a Blog With Next.js and styled-components](https://medium.com/styled-components/building-a-blog-with-next-js-359cf1236574)
