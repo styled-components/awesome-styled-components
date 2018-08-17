@@ -43,7 +43,7 @@
 ### Built with styled-components
 
 #### Components
-* [smooth-ui](https://smooth-ui.smooth-code.com/) - UI Library / Design System based on styled-components
+* [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
