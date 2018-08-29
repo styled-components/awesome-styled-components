@@ -178,7 +178,7 @@
 
 #### Video Tutorials
 * [Create a style guide using NPM & styled-components](https://www.youtube.com/watch?v=u6gQ48rSw-E)
-
+* [CSS in JavaScript](https://www.manning.com/livevideo/css-in-javascript-with-styled-components-and-react)
 
 ---
 ### Contribute
