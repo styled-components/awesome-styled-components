@@ -43,13 +43,14 @@
 ### Built with styled-components
 
 #### Components
+* [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
-* [reas](https://github.com/diegohaz/reas) - Minimalist and highly customizable UI toolkit.
+* [ReaKit](https://github.com/diegohaz/reakit) - Toolkit for building interactive UIs with React and styled-components.
 * [styled-flex-component](https://github.com/SaraVieira/styled-flex-component) - Flex Element for not writing any more custom flex styles.
 * [styled-grid-component](https://github.com/Fausto95/styled-grid-component) - Grid Element for not writing any more custom grid styles.
 * [react-styled-flexbox](https://github.com/snikas/react-styled-flexbox) - Effortlessly add flexbox styles to your components using minimal code.
@@ -90,6 +91,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
 * [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
@@ -119,6 +121,7 @@
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
 
 #### Boilerplates
+* [ReactQL](https://github.com/leebenson/reactql) - Universal React + GraphQL starter kit written in Typescript w/React 16, Apollo 2, Webpack 4, SSR, hot-code reload, Brotli compression, strongly typed SC themes and additional support for SASS/LESS/PostCSS.
 * [React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter) - Real world React, GraphQL, Relay, Postgres setup for a serverless architecture ([demo](https://firebase.reactstarter.com/)).
 * [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
@@ -132,6 +135,7 @@
 ---
 ### Real Apps
 * [Booben](https://github.com/bcrumbs/booben) - Design, develop, connect data, get source code - all in one place.
+* [React Native Explorer](https://react-native-explorer.firebaseapp.com) - Explorer React Native packages and examples effortlessly.
 * [Coinbase Pro](https://pro.coinbase.com) - US based digital asset exchange with trading UI, FIX API and REST API.
 * [rick-morty-app](https://github.com/bamii/rick-morty-app) - Rick and Morty Information Portal.
 * [Hack Club](https://hackclub.com) - Website for a global, non-profit community of high school coding clubs ([source](https://github.com/hackclub/site))
@@ -159,6 +163,7 @@
 ### Further Reading
 
 #### Articles
+* [How styled-components works](https://medium.com/@e.gluhotorenko/how-styled-components-works-618a69970421)
 * [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 * [Building a Blog With Next.js and styled-components](https://medium.com/styled-components/building-a-blog-with-next-js-359cf1236574)
@@ -178,6 +183,7 @@
 
 #### Video Tutorials
 * [Create a style guide using NPM & styled-components](https://www.youtube.com/watch?v=u6gQ48rSw-E)
+* [How to Use Styled Components in React Applications](https://www.youtube.com/watch?v=0cE1q_SVAjM)
 
 
 ---
