@@ -90,7 +90,7 @@
 * [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on flexbox.
 * [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) - Responsive grid components.
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
-* [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
+* [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
