@@ -43,7 +43,7 @@
 ### Built with styled-components
 
 #### Components
-* [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners
+* [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
 * [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
 * [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
