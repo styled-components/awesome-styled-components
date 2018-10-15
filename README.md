@@ -95,7 +95,7 @@
 
 #### Helpers
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
-* [styled-breakpoints](https://github.com/maxinakenty/styled-breakpoints) - Simple and powerfull custom breakpoints 
+* [styled-breakpoints](https://github.com/maxinakenty/styled-breakpoints) - :fire: Simple and powerfull custom breakpoints :fire:
 * [styled-reboot](https://github.com/alexruzzarin/styled-reboot) - Bootstrap v4 reboot.css
 * [subatomic](https://github.com/gragland/subatomic) - Add inline style props to your styled components.
 * [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
