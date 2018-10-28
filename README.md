@@ -169,7 +169,23 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
-
+* [Target](https://intl.target.com/) - Expect More. Pay Less.
+* [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
+* [shop.lego.com](https://shop.lego.com) - LEGO shop.
+* [ticketmaster.co.uk](https://www.ticketmaster.co.uk/) - Tickets for concerts, theatre, football, family days out.
+* [Atlaskit](https://atlaskit.atlassian.com/) - Atlaskit by Atlassian ([source](https://bitbucket.org/atlassian/atlaskit-mk-2)).
+* [Typeform](https://www.typeform.com/) - Turn data collection into an experience.
+* [Coinbase](https://www.coinbase.com/) - Buy & Sell Bitcoin, Ethereum, and more with trust.
+* [Casper](https://casper.com/) - Better Sleep For All.
+* [Spectrum](https://spectrum.chat/) - The community platform for the future ([source](https://github.com/withspectrum/spectrum)).
+* [Vogue](https://www.vogue.de/) - Fashion, Trends, Beauty and People.
+* [Autodesk](https://web.autocad.com/) - Online CAD Editor & Viewer.
+* [Swipe Life](https://swipelife.tinder.com/) - Tinder Swipe Life.
+* [TSM](https://tsm.gg/) - Official TSM Site.
+* [InVision](https://www.invisionapp.com/) - Digital product design, workflow & collaboration.
+* [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma)).
+* [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
+* [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
 ---
 ### Further Reading
 
