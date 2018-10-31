@@ -143,6 +143,7 @@
 
 ---
 ### Real Apps
+* [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
 * [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
 * [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
 * [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma)).
