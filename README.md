@@ -95,6 +95,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar less syntax.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
 * [styled-normalize](https://github.com/sergeysova/styled-normalize) - Add normalize.css with one line
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
