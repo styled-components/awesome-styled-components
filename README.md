@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
 * [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
@@ -50,7 +51,6 @@
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
-* [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [styled-bootstrap](https://github.com/xDae/styled-bootstrap) - Bootstrap 4 Components implementation with customization in mind.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 * [react-super-styled](https://github.com/moarwick/react-super-styled) - Build responsive, semantic layouts fast with this design-agnostic toolkit.
