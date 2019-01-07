@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
 * [react-awesome-notifications](https://github.com/zakariaharti/react-awesome-notifications) - A beautiful fully customizable React + Redux notification system built with styled-components.
 * [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
