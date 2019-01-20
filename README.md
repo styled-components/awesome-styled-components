@@ -43,7 +43,9 @@
 ### Built with styled-components
 
 #### Components
+* [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
+* [react-awesome-notifications](https://github.com/zakariaharti/react-awesome-notifications) - A beautiful fully customizable React + Redux notification system built with styled-components.
 * [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
 * [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
@@ -96,6 +98,8 @@
 
 #### Helpers
 * [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar less syntax.
+* [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
+* [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
 * [styled-normalize](https://github.com/sergeysova/styled-normalize) - Add normalize.css with one line
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
@@ -145,6 +149,7 @@
 
 ---
 ### Real Apps
+* [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
 * [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
 * [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
 * [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
