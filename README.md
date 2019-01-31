@@ -43,6 +43,7 @@
 ### Built with styled-components
 
 #### Components
+* [sugUI Components Library](https://github.com/gazpachu/sugui-design-system) - A UI components library and design system template.
 * [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
 * [react-awesome-notifications](https://github.com/zakariaharti/react-awesome-notifications) - A beautiful fully customizable React + Redux notification system built with styled-components.
@@ -80,7 +81,6 @@
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
-* [sugUI Components Library](https://github.com/gazpachu/sugui-design-system) - A UI components library and design system template.
 
 #### Grid Systems
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
