@@ -80,6 +80,7 @@
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
+* [sugUI Components Library](https://github.com/gazpachu/sugui-design-system) - A UI components library and design system template.
 
 #### Grid Systems
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
