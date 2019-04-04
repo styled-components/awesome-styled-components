@@ -133,6 +133,8 @@
 * [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
 * [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
+* [theme-miner](http://github.com/doubco/theme-miner) - Makes it very easy and readable to create complex design systems in React with styled-components.
+
 
 #### Testing
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
