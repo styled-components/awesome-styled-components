@@ -101,6 +101,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [theme-miner](http://github.com/doubco/theme-miner) - Makes it very easy and readable to create complex design systems in React with styled-components.
 * [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
@@ -133,7 +134,6 @@
 * [styled-theme](https://github.com/diegohaz/styled-theme) - Extensible theming system.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
 * [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
-* [theme-miner](http://github.com/doubco/theme-miner) - Makes it very easy and readable to create complex design systems in React with styled-components.
 
 
 #### Testing
