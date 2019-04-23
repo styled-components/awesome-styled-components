@@ -111,7 +111,7 @@
 * [subatomic](https://github.com/gragland/subatomic) - Add inline style props to your styled components.
 * [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
-* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
+* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset CSS for styled-components
 * [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
 * [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
