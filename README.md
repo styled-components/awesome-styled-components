@@ -86,6 +86,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
 * [styled-grid-responsive](https://github.com/arovillard/styled-grid-responsive) - Responsive, fluid, deeply nestable, non-flexbox grid system with default or custom breakpoints.
@@ -102,6 +103,7 @@
 
 #### Helpers
 * [styled-container-query](https://github.com/FreddyFY/styled-container-query) - Use `Container Queries`/`Element Queries` with an easy syntax.
+* [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags to styled-components in VS Code.
 * [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
@@ -112,7 +114,7 @@
 * [subatomic](https://github.com/gragland/subatomic) - Add inline style props to your styled components.
 * [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
 * [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
-* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset
+* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset CSS for styled-components
 * [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
 * [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
@@ -153,6 +155,7 @@
 
 ---
 ### Real Apps
+* [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
 * [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
@@ -204,6 +207,7 @@
 ### Further Reading
 
 #### Articles
+* [The state of CSS, CSS in JS & how styled-components is solving the problems we’ve had for decades](https://medium.com/@piggyslasher/the-state-of-css-css-in-js-how-styled-components-is-solving-the-problems-weve-had-for-decades-d8abbc8bc148)
 * [How styled-components works](https://medium.com/@e.gluhotorenko/how-styled-components-works-618a69970421)
 * [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
