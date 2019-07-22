@@ -102,6 +102,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags to styled-components in VS Code.
 * [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
