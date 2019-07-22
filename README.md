@@ -86,6 +86,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
 * [styled-grid-responsive](https://github.com/arovillard/styled-grid-responsive) - Responsive, fluid, deeply nestable, non-flexbox grid system with default or custom breakpoints.
@@ -101,7 +102,9 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
-* [super-query](https://github.com/themgoncalves/super-query) - A super media-query intuitive and easy of use.
+* [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
+* [styled-container-query](https://github.com/FreddyFY/styled-container-query) - Use `Container Queries`/`Element Queries` with an easy syntax.
+* [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags to styled-components in VS Code.
 * [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
@@ -205,6 +208,7 @@
 ### Further Reading
 
 #### Articles
+* [The state of CSS, CSS in JS & how styled-components is solving the problems we’ve had for decades](https://medium.com/@piggyslasher/the-state-of-css-css-in-js-how-styled-components-is-solving-the-problems-weve-had-for-decades-d8abbc8bc148)
 * [How styled-components works](https://medium.com/@e.gluhotorenko/how-styled-components-works-618a69970421)
 * [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
 * [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
