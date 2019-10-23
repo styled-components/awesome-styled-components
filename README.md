@@ -50,6 +50,7 @@
 * [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
 * [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
 * [react-awesome-notifications](https://github.com/zakariaharti/react-awesome-notifications) - A beautiful fully customizable React + Redux notification system built with styled-components.
+* [styled-blocks](https://github.com/abstractpoint/styled-blocks) - Simple component primitives for rapid prototyping in React.
 * [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
 * [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
 * [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
