@@ -86,6 +86,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, which is highly customizable and ready for server-side-rendering.
 * [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
@@ -100,7 +101,6 @@
 * [styled-components-grid](https://github.com/jameslnewell/styled-components-grid) - Responsive grid components.
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
-* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, which is highly customizable and ready for server-side-rendering.
 
 #### Helpers
 * [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
