@@ -44,7 +44,6 @@
 
 #### Components
 
-* [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid with `flex-gap` property.
 * [Orbit Components](https://github.com/kiwicom/orbit-components) - React components library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [sugUI Components Library](https://github.com/gazpachu/sugui-design-system) - A UI components library and design system template.
 * [Grommet](https://v2.grommet.io/) - Component library built with accessibility, modularity, responsiveness, and theming in mind.
@@ -87,6 +86,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
 * [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
