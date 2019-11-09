@@ -102,6 +102,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [css-in-js-media](https://github.com/zx6658/css-in-js-media) - when you style with css-in-js (emotion, styled-component) you can perfectly and easily deal with responsive design with this css-in-js-media which is similar with include-media 
 * [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
 * [styled-container-query](https://github.com/FreddyFY/styled-container-query) - Use `Container Queries`/`Element Queries` with an easy syntax.
 * [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags to styled-components in VS Code.
