@@ -156,6 +156,7 @@
 
 ---
 ### Real Apps
+* [njt.now.sh](https://njt.now.sh) - njt: npm jump to 🐸 (package navigation shortcuts you dreamed about). Uses Next.js, contains styled-components in server-side-rendered pages (SSR). [source on github](https://github.com/kachkaev/njt)
 * [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
@@ -203,8 +204,6 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
-* [njt.now.sh](https://njt.now.sh) - njt: npm jump to 🐸 (package navigation shortcuts you dreamed about). Uses Next.js, contains styled-components in server-side-rendered pages (SSR). [source on github](https://github.com/kachkaev/njt)
-
 
 ---
 ### Further Reading
