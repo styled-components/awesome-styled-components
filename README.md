@@ -203,6 +203,8 @@
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
 * [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
+* [njt.now.sh](https://njt.now.sh) - njt: npm jump to 🐸 (package navigation shortcuts you dreamed about). Uses Next.js, contains styled-components in server-side-rendered pages (SSR). [source on github](https://github.com/kachkaev/njt)
+
 
 ---
 ### Further Reading
