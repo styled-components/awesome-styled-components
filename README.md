@@ -156,6 +156,7 @@
 
 ---
 ### Real Apps
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
 * [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
