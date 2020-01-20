@@ -44,7 +44,7 @@
 
 #### Components
 
-* [React95](https://github.com/arturbien/React95) - Refreshed Windows 95 style UI components for your React app.
+* [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
 * [Orbit Components](https://github.com/kiwicom/orbit-components) - React components library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [sugUI Components Library](https://github.com/gazpachu/sugui-design-system) - A UI components library and design system template.
