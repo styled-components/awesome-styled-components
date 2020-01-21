@@ -79,7 +79,7 @@
 * [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component.
 * [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
 * [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍.
-* [uiGradients](https://github.com/ghosh/uiGradients) - Generate beautiful background gradients from the [uigradients.com](http://uigradients.com) database.
+* [uiGradients](https://github.com/garetmckinley/uigradients) - Drop in component for gradients. 
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
