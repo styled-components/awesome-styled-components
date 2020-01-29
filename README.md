@@ -44,6 +44,7 @@
 
 #### Components
 
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, row selection, expandable rows, customizable themes/styles and much more.
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
