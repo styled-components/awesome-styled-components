@@ -162,6 +162,7 @@
 
 ---
 ### Real Apps
+* [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) 🐸 is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
 * [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
