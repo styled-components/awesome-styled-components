@@ -110,6 +110,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar less syntax.
 * [css-in-js-media](https://github.com/zx6658/css-in-js-media) - Easily deal with responsive design with this css-in-js-media.
 * [spacing-helper](https://github.com/binjospookie/spacing-helper) - Standalone helper for creating consistent spacing between the elements of your UI.
 * [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
