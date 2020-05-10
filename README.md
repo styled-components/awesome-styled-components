@@ -45,59 +45,59 @@
 #### Components
 
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
-* [grape-ui](https://github.com/napagroup/grape-ui-react) - React component library using styled-system and other open source components.
-* [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
-* [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
-* [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
-* [Orbit Components](https://github.com/kiwicom/orbit-components) - React components library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
+* [grape-ui](https://github.com/napagroup/grape-ui-react) - Component library using styled-system and other open source components.
+* [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple one-off canvas menu.
+* [React95](https://github.com/arturbien/React95) - Windows 95 style UI components.
+* [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component.
+* [Orbit Components](https://github.com/kiwicom/orbit-components) - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [Grommet](https://v2.grommet.io/) - Component library built with accessibility, modularity, responsiveness, and theming in mind.
 * [bootstrap-styled](https://github.com/bootstrap-styled) - Bootstrap 4 Components, mixins, utilities implementations with global sharing community ecosystem in mind.
-* [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable react components for epic-spinners.
-* [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar for applying styles.
-* [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System based on styled-components
+* [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable components for spinners.
+* [styled-react-modal](https://github.com/AlexanderRichey/styled-react-modal) - Modal component with familiar API and syntactic sugar.
+* [Smooth UI](https://github.com/smooth-code/smooth-ui) - UI Library / Design System.
 * [rendition](https://github.com/resin-io-modules/rendition) - A powerful component library for quickly building modern web apps.
 * [styled-icons](https://github.com/jacobwgillespie/styled-icons) - Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 * [@hackclub/design-system](https://github.com/hackclub/design-system) - Flexible, reusable set of web UI components, built by [Hack Club](https://hackclub.com)
 * [react-styled-select](https://github.com/agutoli/react-styled-select) - Lightweight Select control component.
 * [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
-* [ReaKit](https://github.com/diegohaz/reakit) - Toolkit for building interactive UIs with React and styled-components.
+* [ReaKit](https://github.com/diegohaz/reakit) - Toolkit for building interactive UIs.
 * [Rebass](https://github.com/jxnblk/rebass) - Functional React UI component library.
-* [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS React loading components.
-* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - Simple chatbot / conversational-ui React component.
-* [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components.
-* [uiGradients](https://github.com/garetmckinley/uigradients) - Drop in component for gradients.
+* [react-css-loaders](https://github.com/LucasBassetti/react-css-loaders) - A collection of pure CSS loading components.
+* [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) - Simple chatbot / conversational-ui component.
+* [reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your Components.
+* [uiGradients](https://github.com/garetmckinley/uigradients) - Drop-in component for gradients.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 
 #### Grid Systems
 * [Atomic Layout](https://github.com/kettanaito/atomic-layout) - Layout composition as a physical React component.
-* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, which is highly customizable and ready for server-side-rendering.
+* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, highly customizable and ready for SSR.
 * [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
 * [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
-* [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
-* [styled-bootstrap-grid](https://github.com/dragma/styled-bootstrap-grid) - Full Twitter Bootstrap v4 **grid system** (only) implementation.
+* [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout.
+* [styled-bootstrap-grid](https://github.com/dragma/styled-bootstrap-grid) - Twitter Bootstrap v4 (grid system only).
 * [neat-components](https://github.com/magicink/neat-components) - Implementation of ThoughtBot's Neat grid system.
-* [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout for React.
+* [styled-css-grid](https://styled-css-grid.js.org/) - A tiny CSS grid layout.
 * [react-flexa](https://github.com/aaronvanston/react-flexa) - Implementing the flexbox CSS API responsively.
 * [react-styled-flexboxgrid](https://github.com/LoicMahieu/react-styled-flexboxgrid) - Grid system based on flexbox.
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 
 #### Helpers
-* [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar less syntax.
-* [css-in-js-media](https://github.com/zx6658/css-in-js-media) - Easily deal with responsive design with this css-in-js-media.
-* [spacing-helper](https://github.com/binjospookie/spacing-helper) - Standalone helper for creating consistent spacing between the elements of your UI.
-* [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags to styled-components in VS Code.
-* [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Makes easy to write media queries using styled-components.
+* [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar Less syntax.
+* [css-in-js-media](https://github.com/zx6658/css-in-js-media) - Deal with responsive design.
+* [spacing-helper](https://github.com/binjospookie/spacing-helper) - Standalone helper for creating consistent spacing between the elements.
+* [styled-components-extractor](https://github.com/FallenMax/styled-components-extractor) - Extracts unbound tags in VS Code.
+* [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Write media queries.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
-* [styled-normalize](https://github.com/sergeysova/styled-normalize) - Add normalize.css with one line
+* [styled-normalize](https://github.com/sergeysova/styled-normalize) - Add normalize.css
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
-* [styled-breakpoints](https://github.com/maxinakenty/styled-breakpoints) - :fire: Simple and powerfull custom breakpoints :fire:
+* [styled-breakpoints](https://github.com/maxinakenty/styled-breakpoints) - Simple and powerful custom breakpoints
 * [styled-reboot](https://github.com/alexruzzarin/styled-reboot) - Bootstrap v4 reboot.css
-* [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers for writing styles in JavaScript.
-* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset CSS for styled-components
-* [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations with `styled-components`.
-* [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
+* [polished](https://github.com/styled-components/polished) - Lightweight set of Sass/Compass-style mixins/helpers.
+* [styled-reset](https://github.com/zacanger/styled-reset) - Eric Meyer's Reset CSS.
+* [styled-transition-group](https://github.com/gabiseabra/styled-transition-group) - Create `react-transition-group` animations.
+* [shevyjs](https://github.com/kyleshevlin/shevyjs) - Create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
 * [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
 * [webstorm-styled-components](https://github.com/styled-components/webstorm-styled-components) - Highlighting support in IntelliJ editors
@@ -107,12 +107,12 @@
 * [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions.
 
 #### Testing
-* [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities for Styled Components
+* [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities.
 
 #### Boilerplates
-* [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate for building apps with React and Styled Components.
+* [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate.
 * [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
-* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter 💅.
+* [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter.
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
 
@@ -120,7 +120,7 @@
 ### Real Apps
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
-* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) 🐸 is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
+* [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
 * [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
 * [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
@@ -231,7 +231,7 @@ without actually upgrading peer dependencies, or other changes.
 * [last-draft](https://github.com/vacenz/last-draft) - A Draft.js Editor.
 * [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component.
 * [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
-* [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍.
+* [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - form component.
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 * [react-rasta](https://github.com/chillicream/react-rasta) - Responsive 12 column grid system which comes with a clean and simple API plus tons of feature -- customizable breakpoints, full screen mode, and no gutter to name a few.
@@ -243,7 +243,7 @@ without actually upgrading peer dependencies, or other changes.
 * [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
 * [styled-container-query](https://github.com/FreddyFY/styled-container-query) - Use `Container Queries`/`Element Queries` with an easy syntax.
 * [subatomic](https://github.com/gragland/subatomic) - Add inline style props to your styled components.
-* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666😈 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
+* [with-styled-class-names](https://github.com/RIP21/with-styled-class-names) - Tiny (666 bytes gzip size) helper function/high order component to help style custom classNames props like `inputClassName`, `activeClassName` etc. on 3rd party components using `styled-components`
 * [normalized-styled-components](https://github.com/yldio/normalized-styled-components) - normalize.css with a styled-components mindset.
 * [styled-is](https://github.com/yldio/styled-is) - Flag utility for styled-components.
 * [styled-components-ts](https://github.com/jacob-ebey/styled-components-ts) - styled-components for TypeScript
@@ -257,11 +257,10 @@ without actually upgrading peer dependencies, or other changes.
 * [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint) - Utility function for using breakpoints.
 * [styled-props](https://github.com/RafalFilipek/styled-props) - Allows you to set styled props in your styled-components without stress.
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
-* [ReactQL](https://github.com/leebenson/reactql) - Universal React + GraphQL starter kit written in Typescript w/React 16, Apollo 2, Webpack 4, SSR, hot-code reload, Brotli compression, strongly typed SC themes and additional support for SASS/LESS/PostCSS.
-* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
-* [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example with Styled Components using Express with compression.
-* [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
-
+* [ReactQL](https://github.com/leebenson/reactql) - Universal React + GraphQL starter kit written in Typescript w/ React 16, Apollo 2, SSR, hot-code reload, Brotli compression, strongly typed themes and support for SASS/LESS/PostCSS.
+* [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, and caching.
+* [Razzle Material UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - Razzle Material UI example using Express with compression.
+* [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel
 
 ---
 ### License
