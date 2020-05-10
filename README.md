@@ -44,7 +44,9 @@
 
 #### Components
 
-* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, row selection, expandable rows, customizable themes/styles and much more.
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
+* [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
+* [grape-ui](https://github.com/napagroup/grape-ui-react) - React component library using styled-system and other open source components.
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
@@ -83,13 +85,15 @@
 * [reshake](https://github.com/elrumordelaluz/reshake) - CSShake as a React Functional Component.
 * [react-teleportation](https://github.com/xeonys/react-teleportation) - Teleport your components to the foreground.
 * [react-enhanced-form](https://github.com/xeonys/react-enhanced-form) - The best react form component, on earth 🌍.
-* [uiGradients](https://github.com/garetmckinley/uigradients) - Drop in component for gradients. 
+* [uiGradients](https://github.com/garetmckinley/uigradients) - Drop in component for gradients.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
 * [react-create-component-from-tag-prop](https://github.com/jameslnewell/react-create-component-from-tag-prop) - Create a React component from a tag prop. Lets your users to choose which HTML elements get styled.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [Atomic Layout](https://github.com/kettanaito/atomic-layout) - Layout composition as a physical React component.
+* [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, which is highly customizable and ready for server-side-rendering.
 * [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
 * [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
 * [react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - Responsive grid system layout for React.
@@ -107,6 +111,7 @@
 * [Rebass Grid](https://github.com/rebassjs/grid) - Responsive React grid system built with styled-system.
 
 #### Helpers
+* [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar less syntax.
 * [css-in-js-media](https://github.com/zx6658/css-in-js-media) - Easily deal with responsive design with this css-in-js-media.
 * [spacing-helper](https://github.com/binjospookie/spacing-helper) - Standalone helper for creating consistent spacing between the elements of your UI.
 * [super-query](https://github.com/themgoncalves/super-query) - Super media-query intuitive and easy of use.
@@ -150,6 +155,7 @@
 * [styled-components-test-utils](https://github.com/mbasso/styled-components-test-utils) - Utils for styled-components compatible with jest, expect, chai and jasmine
 
 #### Boilerplates
+* [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate for building apps with React and Styled Components.
 * [ReactQL](https://github.com/leebenson/reactql) - Universal React + GraphQL starter kit written in Typescript w/React 16, Apollo 2, Webpack 4, SSR, hot-code reload, Brotli compression, strongly typed SC themes and additional support for SASS/LESS/PostCSS.
 * [React Starter Kit for Firebase](https://github.com/kriasoft/react-firebase-starter) - Real world React, GraphQL, Relay, Postgres setup for a serverless architecture ([demo](https://firebase.reactstarter.com/)).
 * [RAN!](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
@@ -163,12 +169,15 @@
 
 ---
 ### Real Apps
+* [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
+* [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) 🐸 is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
 * [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
 * [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
 * [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
+* [The Players Tribune](https://www.theplayerstribune.com) - The Voice of the Game
 * [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
 * [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
 * [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma)).
