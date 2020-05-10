@@ -44,6 +44,7 @@
 
 #### Components
 
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
 * [oah-ui](https://github.com/AhmedElywa/oah-ui) - Component library built with four themes, grid system, ltr and rtl directions, theme system to add and edit themes
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
 * [grape-ui](https://github.com/napagroup/grape-ui-react) - React component library using styled-system and other open source components.
