@@ -91,6 +91,7 @@
 * [animated-styled-component](https://github.com/alexvcasillas/animated-styled-components) - React Animated Styled Components.
 
 #### Grid Systems
+* [Atomic Layout](https://github.com/kettanaito/atomic-layout) - Layout composition as a physical React component.
 * [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, which is highly customizable and ready for server-side-rendering.
 * [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
 * [Cinch Layout](https://github.com/jim-at-jibba/react-native-cinch-layout) - React Native grid system inspired by Hedron.
