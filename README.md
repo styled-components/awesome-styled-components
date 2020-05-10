@@ -44,6 +44,7 @@
 
 #### Components
 
+* [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
 * [grape-ui](https://github.com/napagroup/grape-ui-react) - React component library using styled-system and other open source components.
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
