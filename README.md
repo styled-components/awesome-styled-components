@@ -176,6 +176,7 @@
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
 * [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
+* [The Players Tribune](https://www.theplayerstribune.com) - The Voice of the Game
 * [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
 * [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
 * [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma)).
