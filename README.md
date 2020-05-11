@@ -174,6 +174,8 @@
 ### Real Apps
 
 * [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components).
+* [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
+* [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) 🐸 is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
