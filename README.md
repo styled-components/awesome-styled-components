@@ -44,7 +44,6 @@
 
 #### Components
 
-* [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components) - Component library of Nulogy Design System built by and for [Nulogy](https://nulogy.com).
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
@@ -163,6 +162,7 @@
 
 ---
 ### Real Apps
+* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components).
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) 🐸 is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
 * [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
