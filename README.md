@@ -172,6 +172,8 @@
 
 ---
 ### Real Apps
+
+* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components).
 * [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
 * [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
