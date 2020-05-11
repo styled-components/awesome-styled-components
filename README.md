@@ -172,7 +172,7 @@
 
 ---
 ### Real Apps
-* [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching app.
+* [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
 * [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
