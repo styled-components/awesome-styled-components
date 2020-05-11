@@ -86,6 +86,8 @@
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 
 #### Helpers
+
+* [theme-miner](http://github.com/doubco/theme-miner) - Makes it very easy and readable to create complex design systems in React with styled-components.
 * [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar Less syntax.
 * [css-in-js-media](https://github.com/zx6658/css-in-js-media) - Deal with responsive design.
 * [spacing-helper](https://github.com/binjospookie/spacing-helper) - Standalone helper for creating consistent spacing between the elements.
@@ -108,6 +110,7 @@
 * [styled-system](https://github.com/jxnblk/styled-system) - Design system utilities.
 * [styled-map](https://github.com/scf4/styled-map) - Super simple lib to map props to styles.
 * [styled-tools](https://github.com/diegohaz/styled-tools) - Useful interpolated functions.
+
 
 #### Testing
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities.
