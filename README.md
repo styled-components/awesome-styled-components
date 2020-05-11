@@ -44,6 +44,8 @@
 
 #### Components
 
+* [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
+* [oah-ui](https://github.com/AhmedElywa/oah-ui) - Component library built with four themes, grid system, ltr and rtl directions, theme system to add and edit themes
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
 * [grape-ui](https://github.com/napagroup/grape-ui-react) - Component library using styled-system and other open source components.
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple one-off canvas menu.
@@ -69,6 +71,8 @@
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
 
 #### Grid Systems
+
+* [bedrock-layout-primitives](https://github.com/Bedrock-Layouts/Bedrock) - Foundational Layout Primitives for your React App
 * [Atomic Layout](https://github.com/kettanaito/atomic-layout) - Layout composition as a physical React component.
 * [react-raster](https://github.com/andreasfaust/react-raster) - Advanced Grid-System, highly customizable and ready for SSR.
 * [react-flex-ready](https://github.com/smakosh/react-flex-ready) - FlexBox grid system with `flex-gap` property.
@@ -117,6 +121,10 @@
 
 ---
 ### Real Apps
+
+* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components).
+* [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
+* [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [Orbit Components](https://github.com/kiwicom/orbit-components) - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
