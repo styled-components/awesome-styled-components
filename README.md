@@ -86,6 +86,7 @@
 * [Hedron](http://github.com/jsbros/hedron) - No-frills flex-box grid system.
 
 #### Helpers
+* [styco](https://github.com/agreon/styco) - VS Code extension to easily refactor JSX inline styles to styled components.
 * [react-components-cli](https://github.com/yannvr/react-components-cli) - Client to generate styled components.
 * [theme-miner](http://github.com/doubco/theme-miner) - Makes it very easy and readable to create complex design systems in React with styled-components.
 * [styless](https://github.com/jean343/styless) - Style your components declaratively with familiar Less syntax.
