@@ -128,7 +128,7 @@
 ### Real Apps
 
 * [Earner](https://www.earner.ai) - Your number one resource to the Finnish employment community.
-* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/components).
+* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/packages/components).
 * [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
 * [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [Orbit Components](https://github.com/kiwicom/orbit-components) - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
