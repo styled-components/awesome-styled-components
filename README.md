@@ -69,6 +69,7 @@
 * [uiGradients](https://github.com/garetmckinley/uigradients) - Drop-in component for gradients.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
+* [tailwind-styled-components](https://www.npmjs.com/package/tailwind-styled-components) – Create tailwind css react components like styled components with classes name on multiple lines
 
 #### Grid Systems
 
