@@ -44,6 +44,7 @@
 
 #### Components
 
+* [tailwind-styled-components](https://github.com/MathiasGilson/tailwind-styled-component) – Create tailwind css react components like styled components with classes name on multiple lines
 * [react-data-table-component](https://github.com/jbetancur/react-data-table-component) - Data Table with built in sorting, pagination, selection, expandable rows and customizable styling.
 * [oah-ui](https://github.com/AhmedElywa/oah-ui) - Component library built with four themes, grid system, ltr and rtl directions, theme system to add and edit themes
 * [react-styled-floating-label](https://github.com/ihor/react-styled-floating-label) - Floating label component which works with any HTML input.
@@ -69,7 +70,6 @@
 * [uiGradients](https://github.com/garetmckinley/uigradients) - Drop-in component for gradients.
 * [react-aria-tooltip](https://github.com/egoens/react-aria-tooltip) - Accessible ReactJS tooltip component.
 * [grommet-icons](https://github.com/grommet/grommet-icons) - Iconography for grommet apps.
-* [tailwind-styled-components](https://github.com/MathiasGilson/tailwind-styled-component) – Create tailwind css react components like styled components with classes name on multiple lines
 
 #### Grid Systems
 
