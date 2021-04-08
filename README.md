@@ -118,6 +118,7 @@
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities.
 
 #### Boilerplates
+* [Next.js Boilerplate](https://github.com/remcolakens/next-boilerplate) - Easy to use front-end boilerplate to start developing your Next.js application right away
 * [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate.
 * [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter.
