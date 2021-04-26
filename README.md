@@ -118,6 +118,7 @@
 * [jest-styled-components](https://github.com/styled-components/jest-styled-components) - Jest utilities.
 
 #### Boilerplates
+* [@prisma-cms/nextjs-nexus](https://github.com/prisma-cms/nextjs-nexus) - Complete fullstack boilerplate on top of next-js, prisma-2, nexus, GraphQL, styled-components
 * [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate.
 * [Generator create-redux-app](https://github.com/jonidelv/generator-create-redux-app) - Adds Redux and other useful libraries, on top of create-react-app.
 * [Superstylin'](https://github.com/bntzio/gatsby-starter-superstylin) - A Gatsby starter.
