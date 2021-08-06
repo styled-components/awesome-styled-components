@@ -189,6 +189,7 @@
 ### Further Reading
 
 #### Articles
+* [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
 * [The state of CSS, CSS in JS & how styled-components is solving the problems we’ve had for decades](https://medium.com/@piggyslasher/the-state-of-css-css-in-js-how-styled-components-is-solving-the-problems-weve-had-for-decades-d8abbc8bc148)
 * [How styled-components works](https://medium.com/@e.gluhotorenko/how-styled-components-works-618a69970421)
 * [Getting Sassy with styled-components](https://medium.com/styled-components/getting-sassy-with-sass-styled-theme-9a375cfb78e8)
