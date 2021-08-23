@@ -97,6 +97,8 @@
 * [styled-media-helper](https://github.com/dvpnt/styled-media-helper) - Write media queries.
 * [styled-tachyons](https://github.com/linonetwo/styled-tachyons) - Mix tachyons style shorthands with normal css.
 * [styled-px2vw](https://github.com/hnzycfcfed/styled-px2vw) - Extension of styled-components with features for convert px to vw units.
+* [babel-plugin-styled-components-px2rem](https://github.com/xuyuanxiang/babel-plugin-styled-components-px2rem) Babel plugin for convert px to rem units of styled-components.
+* [babel-plugin-styled-components-px2vw](https://github.com/jackluson/babel-plugin-styled-components-px2vw) Babel plugin for convert px to vw units of styled-components.
 * [styled-normalize](https://github.com/sergeysova/styled-normalize) - Add normalize.css
 * [styled-email-components](https://github.com/sergeybekrin/styled-email-components) - Extension for building email-first components via inline styles.
 * [styled-breakpoints](https://github.com/maxinakenty/styled-breakpoints) - Simple and powerful custom breakpoints
