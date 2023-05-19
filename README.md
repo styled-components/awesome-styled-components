@@ -35,7 +35,6 @@
 * [GitHub](https://github.com/styled-components/styled-components)
 
 #### Community
-* [Spectrum](https://spectrum.chat/styled-components)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/styled-components)
 
 
@@ -128,21 +127,20 @@
 ### Real Apps
 
 * [Earner](https://www.earner.ai) - Your number one resource to the Finnish employment community.
-* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system/tree/master/packages/components).
+* [Nulogy](https://nulogy.com) - Supply chain management software built with open-source [Nulogy Components](https://github.com/nulogy/design-system).
 * [Nyxo iOS & Android App](https://nyxo.app) - Personalized sleep coaching mobile app.
 * [Vimeo](https://vimeo.com) - Video collaboration, video distribution and video everything else.
 * [Orbit Components](https://github.com/kiwicom/orbit-components) - Component library of Orbit Design System, built by and for [Kiwi.com](https://www.kiwi.com)
 * [PageXL](https://pagexl.com/) - No code website builder to create landing pages and online stores in minutes.
 * [Taskade](https://taskade.com/) - The unified workspace for distributed teams. Real-time collaboration and organization tool.
 * [njt.now.sh](https://njt.now.sh) - `njt` (npm jump to) is a tool and a service that provides package navigation shortcuts. It uses Next.js and involves server-side-rendering ([source](https://github.com/kachkaev/njt)).
-* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/master/packages/strapi-admin) - Strapi built-in admin panel to build content APIs.
+* [Strapi Admin Panel](https://github.com/strapi/strapi/tree/main/packages/core/admin/admin/src) - Strapi built-in admin panel to build content APIs.
 * [Jane](https://jane.com) - Daily deal site offering the latest trends in fashion and home decor.
 * [Sweetgreen Android App](https://www.sweetgreen.com/) - Sweetgreen is an American fast casual restaurant chain that serves salads. It already using Styled Components for the React Native Android Application.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring and analytics service.
 * [Cloverleaf](https://cloverleaf.me/) - Reveal insights on your team's hidden qualities.
 * [The Players Tribune](https://www.theplayerstribune.com) - The Voice of the Game
 * [Moleskine](https://moleskinestudio.com/) - Moleskine Digital Studio.
-* [FortniteMaster.com](https://fortnitemaster.com/) - Professional Fortnite Battle Royale Stats.
 * [Prisma](https://www.prisma.io/) - Open-Source GraphQL ORM for GraphQL Servers ([source](https://github.com/prisma/prisma)).
 * [InVision](https://www.invisionapp.com/) - Digital product design, workflow & collaboration.
 * [TSM](https://tsm.gg/) - Official TSM Site.
@@ -157,7 +155,7 @@
 * [ticketmaster.co.uk](https://www.ticketmaster.co.uk/) - Tickets for concerts, theatre, football, family days out.
 * [shop.lego.com](https://shop.lego.com) - LEGO shop.
 * [Patreon](https://www.patreon.com/) - Best way for artists and creators to get sustainable income and connect with fans.
-* [Target](https://intl.target.com/) - Expect More. Pay Less.
+* [Target](https://target.com/) - Expect More. Pay Less.
 * [Dutchie](https://dutchie.com) - Online Cannabis Ordering & Delivery.
 * [Tab Ipsum](https://tabipsum.com/) - Generate fake content easily ([source](https://github.com/edkf/tabipsum)).
 * [Booben](https://github.com/bcrumbs/booben) - Design, develop, connect data, get source code - all in one place.
@@ -168,7 +166,6 @@
 * [Helsinki Food Guide](https://helsinkifoodguide.com) - Website featuring only the best dishes in Helsinki.
 * [Atlas of of Economic Complexity](http://atlas.cid.harvard.edu/) - Research and data visualization tool to explore global trade flows across markets, track these dynamics over time and discover new growth opportunities for every country.
 * [Outline](https://www.getoutline.com) - Wiki for your team ([source](https://github.com/outline/outline))
-* [Count Minutes](https://www.countminutes.com) - Application helping _you_ to be in control of _your_ time.
 * [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 * [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js); also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
 * [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
@@ -176,13 +173,11 @@
 * [Swat.io](https://swat.io) - Social Media Managment for Teams by [Die Socialisten](http://die.socialisten.at)
 * [Grabient.com](https://www.grabient.com) - A beautiful and simple UI for generating web gradients. ([source](https://github.com/johnkorzhuk/grabient/)).
 * [CodeSandbox](https://codesandbox.io/s/new) - An online editor tailored for React development ([source](https://github.com/CompuIves/codesandbox-client)).
-* [rosesdaycare.center](https://rosesdaycare.center) - Marketing website with theme colors that change on refresh ([source](https://github.com/anthony2025/roses-daycare)).
 * [joeireland.com](https://joeireland.com) - Portfolio of Joseph Ireland ([source](https://github.com/IamJoseph/JoesReactWebsite)).
 * [michaelhsu.tw](http://michaelhsu.tw) - A simple static homepage built with CRA pre-renderer ([source](https://github.com/evenchange4/michaelhsu.tw)).
 * [Reactiflux](https://www.reactiflux.com) - Reactiflux community home build with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/reactiflux/reactiflux.com)).
 * [Dirtyredz.com](http://dirtyredz.com) - David McClain | Dirtyredz * About me, Latest projects and Contact ([source](https://github.com/dirtyredz/dirtyredz.com)).
 * [sachagreif.com](http://sachagreif.com) - Personal homepage built with [Gatsby](https://github.com/gatsbyjs/gatsby) ([source](https://github.com/SachaG/sg2017)).
-* [spaceexperience.club](https://spaceexperience.club/) - Brings you each day a stunning picture of our universe, Astronomy Picture of the Day. ([source](https://github.com/caspg/space-exp)).
 * [PostCSS.parts](http://postcss.parts) - Searchable catalog of PostCSS plugins.
 
 ---
@@ -201,7 +196,7 @@
 * [Ryan Florence - Ryan's Random Thoughts on Inline Styles](https://www.youtube.com/watch?v=EkPcGS4TzdQ)
 * [Rendering Khan Academy’s Learn Menu Wherever I Please](https://medium.com/@jdan/rendering-khan-academys-learn-menu-wherever-i-please-4b58d4a9432d)
 * [The Future of Reusable CSS](https://www.youtube.com/watch?v=XR6eM_5pAb0)
-* ["Scale" FUD and Style Components](https://medium.com/learnreact/scale-fud-and-style-components-c0ce87ec9772#.kzjba8lcg)
+* ["Scale" FUD and Style Components](https://medium.learnreact.com/scale-fud-and-style-components-c0ce87ec9772)
 * [The magic behind 💅 styled-components](http://mxstbr.blog/2016/11/styled-components-magic-explained/)
 
 #### Video from Confs
